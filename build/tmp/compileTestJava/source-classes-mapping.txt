@@ -1,2 +1,4 @@
+com/example/book/springboot/web/dto/HelloResponseDtoTest.java
+ com.example.book.springboot.web.dto.HelloResponseDtoTest
 com/example/book/springboot/web/HelloControllerTest.java
  com.example.book.springboot.web.HelloControllerTest
