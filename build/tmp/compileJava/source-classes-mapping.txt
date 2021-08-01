@@ -9,5 +9,3 @@ com/example/book/springboot/web/dto/HelloResponseDto.java
 com/example/book/springboot/domain/posts/Posts.java
  com.example.book.springboot.domain.posts.Posts
  com.example.book.springboot.domain.posts.Posts$PostsBuilder
-test.java
- test
