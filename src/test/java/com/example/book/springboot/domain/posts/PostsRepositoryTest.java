@@ -20,12 +20,12 @@ public class PostsRepositoryTest {
     PostsRepository postsRepository;
 
     @After
-    public void cleanup(){
+    public void cleanup() {
         postsRepository.deleteAll();
     }
 
     @Test
-    public void 게시글저장_불러오기(){
+    public void 게시글저장_불러오기() {
         String title = "테스트 게시글";
         String content = "테스트 본문";
 

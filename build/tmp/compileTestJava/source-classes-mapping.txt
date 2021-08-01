@@ -1,6 +1,8 @@
 com/example/book/springboot/web/HelloControllerTest.java
  com.example.book.springboot.web.HelloControllerTest
-com/example/book/springboot/domain/posts/PostsRepositoryTest.java
- com.example.book.springboot.domain.posts.PostsRepositoryTest
 com/example/book/springboot/web/dto/HelloResponseDtoTest.java
  com.example.book.springboot.web.dto.HelloResponseDtoTest
+com/example/book/springboot/domain/posts/PostsRepositoryTest.java
+ com.example.book.springboot.domain.posts.PostsRepositoryTest
+com/example/book/springboot/web/PostsApiControllerTest.java
+ com.example.book.springboot.web.PostsApiControllerTest
