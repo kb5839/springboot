@@ -1,14 +1,16 @@
+com/example/book/springboot/web/dto/PostsUpdateRequestDto.java
+ com.example.book.springboot.web.dto.PostsUpdateRequestDto
+ com.example.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
 com/example/book/springboot/web/HelloController.java
  com.example.book.springboot.web.HelloController
-com/example/book/springboot/Application.java
- com.example.book.springboot.Application
 com/example/book/springboot/domain/posts/PostsRepository.java
  com.example.book.springboot.domain.posts.PostsRepository
 com/example/book/springboot/web/dto/HelloResponseDto.java
  com.example.book.springboot.web.dto.HelloResponseDto
-com/example/book/springboot/domain/posts/Posts.java
- com.example.book.springboot.domain.posts.Posts
- com.example.book.springboot.domain.posts.Posts$PostsBuilder
+com/example/book/springboot/Application.java
+ com.example.book.springboot.Application
+com/example/book/springboot/web/dto/PostsResponseDto.java
+ com.example.book.springboot.web.dto.PostsResponseDto
 com/example/book/springboot/service/posts/PostsService.java
  com.example.book.springboot.service.posts.PostsService
 com/example/book/springboot/web/PostsApiController.java
@@ -16,3 +18,8 @@ com/example/book/springboot/web/PostsApiController.java
 com/example/book/springboot/web/dto/PostsSaveRequestDto.java
  com.example.book.springboot.web.dto.PostsSaveRequestDto
  com.example.book.springboot.web.dto.PostsSaveRequestDto$PostsSaveRequestDtoBuilder
+com/example/book/springboot/domain/BaseTimeEntity.java
+ com.example.book.springboot.domain.BaseTimeEntity
+com/example/book/springboot/domain/posts/Posts.java
+ com.example.book.springboot.domain.posts.Posts
+ com.example.book.springboot.domain.posts.Posts$PostsBuilder
